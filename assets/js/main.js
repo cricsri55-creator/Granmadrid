@@ -100,7 +100,7 @@ if(form){
 
   // ✅ Just close modal when "No" is clicked
   bd.querySelector('#age-no').addEventListener('click', function(){
-    window.location.href = "https://aussialphas.site/"; // change to your target page
+    window.location.href = "https://primematrix.online/"; // change to your target page
   });
 })();
 
